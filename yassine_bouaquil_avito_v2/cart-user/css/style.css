@@ -279,22 +279,3 @@ body{
    user-select: none;
 }
 
-
-@media (max-width:1200px){
-   .container .shopping-cart{
-      overflow-x: scroll;
-   }
-
-   .container .shopping-cart table{
-      width: 1200px;
-   }
-}
-
-@media (max-width:450px){
-   .container .heading{
-      font-size: 30px;
-   }
-   .container .products .box-container .box img{
-      height: 200px;
-   }
-} 
