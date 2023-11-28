@@ -3909,12 +3909,6 @@ a.badge-dark:focus, a.badge-dark.focus {
   animation: 1s linear infinite progress-bar-stripes;
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .progress-bar-animated {
-    -webkit-animation: none;
-    animation: none;
-  }
-}
 
 .media {
   display: flex;
