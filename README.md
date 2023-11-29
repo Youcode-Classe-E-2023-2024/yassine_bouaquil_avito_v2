@@ -33,6 +33,7 @@ Use the package manager [pip](https://github.com/Youcode-Classe-E-2023-2024/yass
 git clone https://github.com/Youcode-Classe-E-2023-2024/yassine_bouaquil_avito_v2
 
 ```
+![OOO](https://github.com/Youcode-Classe-E-2023-2024/yassine_bouaquil_avito_v2/assets/139541292/9190edc3-bf70-4c5a-b3b0-d3ee56ae92ec)
 
 ## Usage
 
@@ -50,8 +51,12 @@ foobar.singularize('phenomena')
 ```
 
 ## Contributing
+[111](https://github.com/Youcode-Classe-E-2023-2024/yassine_bouaquil_avito_v2/assets/139541292/514bf50e-a737-443e-b839-036836965b21)
 
-If you would like to contribute to the Avito Ecommerce project, please follow these steps:
+
+If you would like to contribute to the Avito Ecommerce p!
+
+roject, please follow these steps:
 
 Fork the repository.
 Create a new branch.
